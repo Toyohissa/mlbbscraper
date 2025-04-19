@@ -3,9 +3,13 @@
     "Name": "Miya",
     "Image": null,
     "release date": "2016",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "10800 or 399",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -43,9 +47,13 @@
     "Name": "Balmond",
     "Image": null,
     "release date": "2016",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Damage/Regen",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "6500 or 299",
     "skill resource": "None",
     "damage type": "Physical",
@@ -83,9 +91,14 @@
     "Name": "Saber",
     "Image": null,
     "release date": "2016",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Charge/Finisher",
-    "lane recc.": "Jungling/ Roaming",
+    "lane recc.": [
+      "Jungling",
+      "Roaming"
+    ],
     "price": "6500 or 299",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -124,9 +137,15 @@
     "Name": "Alice",
     "Image": null,
     "release date": "2016",
-    "role": "Mage/ Tank",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
     "specialty": "Charge/Regen",
-    "lane recc.": "EXP Lane/ Jungling",
+    "lane recc.": [
+      "EXP Lane",
+      "Jungling"
+    ],
     "price": "15000 or 399",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -169,9 +188,13 @@
     "Name": "Nana",
     "Image": null,
     "release date": "2016",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Burst",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "6500 or 299",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -207,9 +230,13 @@
     "Name": "Tigreal",
     "Image": null,
     "release date": "2016",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "6500 or 299",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -238,9 +265,14 @@
     "Name": "Alucard",
     "Image": null,
     "release date": "2016",
-    "role": "Fighter/ Assassin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "15000 or 399",
     "skill resource": "None",
     "damage type": "Physical",
@@ -269,9 +301,13 @@
     "Name": "Karina",
     "Image": null,
     "release date": "2016",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Finisher/Magic Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -308,9 +344,14 @@
     "Name": "Akai",
     "Image": null,
     "release date": "2016",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Guard/Crowd Control",
-    "lane recc.": "Roaming/ Jungling",
+    "lane recc.": [
+      "Roaming",
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -338,9 +379,13 @@
     "Name": "Franco",
     "Image": null,
     "release date": "2016",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Initiator/Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 749",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -368,9 +413,15 @@
     "Name": "Bane",
     "Image": null,
     "release date": "2016",
-    "role": "Fighter/ Mage",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
     "specialty": "Push/Burst",
-    "lane recc.": "Jungling/ EXP Lane",
+    "lane recc.": [
+      "Jungling",
+      "EXP Lane"
+    ],
     "price": "6500 or 299",
     "skill resource": "Mana",
     "damage type": "Mixed",
@@ -400,9 +451,13 @@
     "Name": "Bruno",
     "Image": null,
     "release date": "2016",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "15000 or 399",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -431,9 +486,13 @@
     "Name": "Clint",
     "Image": null,
     "release date": "2016",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "15000 or 399",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -460,9 +519,13 @@
     "Name": "Rafaela",
     "Image": null,
     "release date": "2016",
-    "role": "Support",
+    "role": [
+      "Support"
+    ],
     "specialty": "Regen/Guard",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "6500 or 299",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -492,9 +555,13 @@
     "Name": "Eudora",
     "Image": null,
     "release date": "2016",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Control/Burst",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "2000 or 399",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -530,9 +597,14 @@
     "Name": "Zilong",
     "Image": null,
     "release date": "9 September 2016",
-    "role": "Fighter/ Assassin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "15000 or 399",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -565,9 +637,13 @@
     "Name": "Fanny",
     "Image": null,
     "release date": "30 September 2016",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Finisher",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "24000 or 499",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -599,9 +675,13 @@
     "Name": "Layla",
     "Image": null,
     "release date": "23 September 2016",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "2000 or 299",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -636,9 +716,14 @@
     "Name": "Minotaur",
     "Image": null,
     "release date": "14 October 2016",
-    "role": "Tank/ Support",
+    "role": [
+      "Tank",
+      "Support"
+    ],
     "specialty": "Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "15000 or 399",
     "skill resource": "None",
     "damage type": "Physical",
@@ -668,9 +753,14 @@
     "Name": "Lolita",
     "Image": null,
     "release date": "28 October 2016",
-    "role": "Support/ Tank",
+    "role": [
+      "Support",
+      "Tank"
+    ],
     "specialty": "Guard/Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -704,9 +794,13 @@
     "Name": "Hayabusa",
     "Image": null,
     "release date": "4 November 2016",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -737,9 +831,13 @@
     "Name": "Freya",
     "Image": null,
     "release date": "November 2016",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -767,9 +865,13 @@
     "Name": "Gord",
     "Image": null,
     "release date": "November 2016",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Burst",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -797,9 +899,13 @@
     "Name": "Natalia",
     "Image": null,
     "release date": "December 2016",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Finisher",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -826,9 +932,13 @@
     "Name": "Kagura",
     "Image": null,
     "release date": "December 2016",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Finisher",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -860,9 +970,14 @@
     "Name": "Chou",
     "Image": null,
     "release date": "December 2016",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Chase/Control",
-    "lane recc.": "EXP Lane/ Roaming",
+    "lane recc.": [
+      "EXP Lane",
+      "Roaming"
+    ],
     "price": "24000 or 499",
     "skill resource": "None",
     "damage type": "Physical",
@@ -888,9 +1003,14 @@
     "Name": "Sun",
     "Image": null,
     "release date": "December 2016",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Push/Damage",
-    "lane recc.": "EXP Lane/ Jungling",
+    "lane recc.": [
+      "EXP Lane",
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Phyiscal",
@@ -920,9 +1040,14 @@
     "Name": "Alpha",
     "Image": null,
     "release date": "January 2017",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Charge/Damage",
-    "lane recc.": "Jungling/ EXP Lane",
+    "lane recc.": [
+      "Jungling",
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -950,9 +1075,13 @@
     "Name": "Ruby",
     "Image": null,
     "release date": "2017",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Crowd Control/Regen",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -986,9 +1115,14 @@
     "Name": "Yi_Sun-shin",
     "Image": null,
     "release date": "2017",
-    "role": "Assassin/ Marksman",
+    "role": [
+      "Assassin",
+      "Marksman"
+    ],
     "specialty": "Finisher/Chase",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1016,9 +1150,13 @@
     "Name": "Moskov",
     "Image": null,
     "release date": "2017",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Chase",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 399",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1049,9 +1187,14 @@
     "Name": "Johnson",
     "Image": null,
     "release date": "14 March 2017",
-    "role": "Tank/ Support",
+    "role": [
+      "Tank",
+      "Support"
+    ],
     "specialty": "Support/Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Magic",
@@ -1078,9 +1221,13 @@
     "Name": "Cyclops",
     "Image": null,
     "release date": "2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Control",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "15000 or 399",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1102,9 +1249,13 @@
     "Name": "Estes",
     "Image": null,
     "release date": "2017",
-    "role": "Support",
+    "role": [
+      "Support"
+    ],
     "specialty": "Regen/Guard",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1134,9 +1285,15 @@
     "Name": "Hilda",
     "Image": null,
     "release date": "2017",
-    "role": "Fighter/ Tank",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
     "specialty": "Damage/Regen",
-    "lane recc.": "Roaming/ EXP Lane",
+    "lane recc.": [
+      "Roaming",
+      "EXP Lane"
+    ],
     "price": "24000 or 499",
     "skill resource": "None",
     "damage type": "Physical",
@@ -1161,9 +1318,13 @@
     "Name": "Aurora",
     "Image": null,
     "release date": "2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Crowd Control/Poke",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1193,9 +1354,13 @@
     "Name": "Lapu-Lapu",
     "Image": null,
     "release date": "2017",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -1226,9 +1391,13 @@
     "Name": "Vexana",
     "Image": null,
     "release date": "2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Control",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1264,9 +1433,14 @@
     "Name": "Roger",
     "Image": null,
     "release date": "25 June 2017",
-    "role": "Fighter/ Marksman",
+    "role": [
+      "Fighter",
+      "Marksman"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1292,9 +1466,13 @@
     "Name": "Karrie",
     "Image": null,
     "release date": "2017",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1320,9 +1498,15 @@
     "Name": "Gatotkaca",
     "Image": null,
     "release date": "July 2017",
-    "role": "Tank/ Fighter",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
     "specialty": "Crowd Control/Burst",
-    "lane recc.": "Roaming/ EXP Lane",
+    "lane recc.": [
+      "Roaming",
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Magic",
@@ -1351,9 +1535,14 @@
     "Name": "Harley",
     "Image": null,
     "release date": "29 July 2017",
-    "role": "Assassin/ Mage",
+    "role": [
+      "Assassin",
+      "Mage"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1391,9 +1580,13 @@
     "Name": "Irithel",
     "Image": null,
     "release date": "2017",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -1420,9 +1613,14 @@
     "Name": "Grock",
     "Image": null,
     "release date": "2017",
-    "role": "Tank/ Fighter",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
     "specialty": "Crowd Control/Initiator",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -1450,9 +1648,13 @@
     "Name": "Argus",
     "Image": null,
     "release date": "2017",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Charge/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -1481,9 +1683,13 @@
     "Name": "Odette",
     "Image": null,
     "release date": "29 September 2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "20or  120",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1517,9 +1723,13 @@
     "Name": "Lancelot",
     "Image": null,
     "release date": "2017",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1553,9 +1763,13 @@
     "Name": "Diggie",
     "Image": null,
     "release date": "19 November 2017",
-    "role": "Support",
+    "role": [
+      "Support"
+    ],
     "specialty": "Guard/Poke",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1588,9 +1802,13 @@
     "Name": "Hylos",
     "Image": null,
     "release date": "2017",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Guard/Initiator",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1618,9 +1836,13 @@
     "Name": "Zhask",
     "Image": null,
     "release date": "2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1651,9 +1873,13 @@
     "Name": "Helcurt",
     "Image": null,
     "release date": "2017",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Push/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1680,9 +1906,13 @@
     "Name": "Pharsa",
     "Image": null,
     "release date": "27 December 2017",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1713,9 +1943,14 @@
     "Name": "Lesley",
     "Image": null,
     "release date": "January 2018",
-    "role": "Marksman/ Assassin",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -1746,9 +1981,14 @@
     "Name": "Jawhead",
     "Image": null,
     "release date": "January 2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Charge/Burst",
-    "lane recc.": "EXP Lane/ Jungling",
+    "lane recc.": [
+      "EXP Lane",
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1775,9 +2015,13 @@
     "Name": "Angela",
     "Image": null,
     "release date": "6 February 2018",
-    "role": "Support",
+    "role": [
+      "Support"
+    ],
     "specialty": "Guard/Support",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "24000 or 499",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1807,9 +2051,13 @@
     "Name": "Gusion",
     "Image": null,
     "release date": "2018",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Burst/Magic Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1840,9 +2088,13 @@
     "Name": "Valir",
     "Image": null,
     "release date": "2018",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Damage/Guard",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1868,9 +2120,13 @@
     "Name": "Martis",
     "Image": null,
     "release date": "2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Finisher/Charge",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -1898,9 +2154,13 @@
     "Name": "Uranus",
     "Image": null,
     "release date": "2018",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Regen",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1923,9 +2183,13 @@
     "Name": "Hanabi",
     "Image": null,
     "release date": "17 April 2018",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -1954,9 +2218,13 @@
     "Name": "Chang%27e",
     "Image": null,
     "release date": "30 May 2018",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Burst",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599or  120",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -1981,9 +2249,14 @@
     "Name": "Kaja",
     "Image": null,
     "release date": "25 April 2018",
-    "role": "Support/ Fighter",
+    "role": [
+      "Support",
+      "Fighter"
+    ],
     "specialty": "Control/Charge",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2012,9 +2285,15 @@
     "Name": "Selena",
     "Image": null,
     "release date": "10 July 2018",
-    "role": "Assassin/ Mage",
+    "role": [
+      "Assassin",
+      "Mage"
+    ],
     "specialty": "Initiator/Finisher",
-    "lane recc.": "Roaming/ Mid Lane",
+    "lane recc.": [
+      "Roaming",
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2040,9 +2319,13 @@
     "Name": "Aldous",
     "Image": null,
     "release date": "24 July 2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Burst/Support",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -2071,9 +2354,13 @@
     "Name": "Claude",
     "Image": null,
     "release date": "7 August 2018",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Burst/Chase",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2105,9 +2392,13 @@
     "Name": "Vale",
     "Image": null,
     "release date": "29 January 2019",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Crowd Control",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2134,9 +2425,13 @@
     "Name": "Leomord",
     "Image": null,
     "release date": "2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2168,9 +2463,13 @@
     "Name": "Lunox",
     "Image": null,
     "release date": "2018",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Damage",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2204,9 +2503,13 @@
     "Name": "Hanzo",
     "Image": null,
     "release date": "4 December 2018",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -2234,9 +2537,13 @@
     "Name": "Belerick",
     "Image": null,
     "release date": "17 August 2018",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Crowd Control/Regen",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2266,9 +2573,14 @@
     "Name": "Kimmy",
     "Image": null,
     "release date": "2018",
-    "role": "Marksman/ Mage",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
     "specialty": "Damage/Magic Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Magic",
@@ -2294,9 +2606,13 @@
     "Name": "Thamuz",
     "Image": null,
     "release date": "2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2323,9 +2639,14 @@
     "Name": "Harith",
     "Image": null,
     "release date": "November 2018",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "Mid Lane/ Gold Lane",
+    "lane recc.": [
+      "Mid Lane",
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2356,9 +2677,14 @@
     "Name": "Minsitthar",
     "Image": null,
     "release date": "2018",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Initiator/Crowd Control",
-    "lane recc.": "EXP Lane/ Roaming",
+    "lane recc.": [
+      "EXP Lane",
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -2387,9 +2713,14 @@
     "Name": "Kadita",
     "Image": null,
     "release date": "18 December 2018",
-    "role": "Mage/ Assassin",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
     "specialty": "Burst/Charge",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2415,9 +2746,14 @@
     "Name": "Faramis",
     "Image": null,
     "release date": "18 May 2019",
-    "role": "Support/ Mage",
+    "role": [
+      "Support",
+      "Mage"
+    ],
     "specialty": "Guard/Charge",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2448,9 +2784,13 @@
     "Name": "Badang",
     "Image": null,
     "release date": "15 January 2019",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Charge/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2478,9 +2818,13 @@
     "Name": "Khufra",
     "Image": null,
     "release date": "12 March 2019",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Initiator/Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Mixed",
@@ -2503,9 +2847,14 @@
     "Name": "Granger",
     "Image": null,
     "release date": "23 April 2019",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Burst/Finisher",
-    "lane recc.": "Jungling/ Gold Lane",
+    "lane recc.": [
+      "Jungling",
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2535,9 +2884,13 @@
     "Name": "Guinevere",
     "Image": null,
     "release date": "21 February 2019",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Burst/Magic Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Magic",
@@ -2573,9 +2926,14 @@
     "Name": "Esmeralda",
     "Image": null,
     "release date": "3 April 2019",
-    "role": "Tank/ Mage",
+    "role": [
+      "Tank",
+      "Mage"
+    ],
     "specialty": "Regen/Mixed Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Mixed",
@@ -2607,9 +2965,14 @@
     "Name": "Terizla",
     "Image": null,
     "release date": "4 June 2019",
-    "role": "Fighter/ Tank",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
     "specialty": "Burst/Crowd Control",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -2640,9 +3003,13 @@
     "Name": "X.Borg",
     "Image": null,
     "release date": "9 August 2019",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Regen/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2675,9 +3042,13 @@
     "Name": "Ling",
     "Image": null,
     "release date": "24 November 2019",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -2710,9 +3081,14 @@
     "Name": "Dyrroth",
     "Image": null,
     "release date": "25 June 2019",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Charge/Burst",
-    "lane recc.": "EXP Lane/ Jungling",
+    "lane recc.": [
+      "EXP Lane",
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2752,9 +3128,13 @@
     "Name": "Lylia",
     "Image": null,
     "release date": "23 July 2019",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Push/Damage",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2781,9 +3161,13 @@
     "Name": "Baxia",
     "Image": null,
     "release date": "8 October 2019",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Support/Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2810,9 +3194,14 @@
     "Name": "Masha",
     "Image": null,
     "release date": "17 September 2019",
-    "role": "Fighter/ Tank",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
     "specialty": "Push/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -2841,9 +3230,13 @@
     "Name": "Wanwan",
     "Image": null,
     "release date": "26 November 2019",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Burst",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -2876,9 +3269,13 @@
     "Name": "Silvanna",
     "Image": null,
     "release date": "17 December 2019",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Initiator/Magic Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2912,9 +3309,13 @@
     "Name": "Cecilion",
     "Image": null,
     "release date": "12 February 2020",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Poke/Burst",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2942,9 +3343,14 @@
     "Name": "Carmilla",
     "Image": null,
     "release date": "17 January 2020",
-    "role": "Support/ Tank",
+    "role": [
+      "Support",
+      "Tank"
+    ],
     "specialty": "Crowd Control/Damage",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -2973,9 +3379,13 @@
     "Name": "Atlas",
     "Image": null,
     "release date": "20 March 2020",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Crowd Control/Initiator",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3001,9 +3411,14 @@
     "Name": "Popol_and_Kupa",
     "Image": null,
     "release date": "21 April 2020",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Push/Burst",
-    "lane recc.": "Jungling/ Gold Lane",
+    "lane recc.": [
+      "Jungling",
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Mixed",
@@ -3032,9 +3447,13 @@
     "Name": "Yu_Zhong",
     "Image": null,
     "release date": "2020",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Regen/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3063,9 +3482,13 @@
     "Name": "Luo_Yi",
     "Image": null,
     "release date": "16 May 2020",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Support/Crowd Control",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3092,9 +3515,14 @@
     "Name": "Benedetta",
     "Image": null,
     "release date": "7 November 2020",
-    "role": "Assassin/ Fighter",
+    "role": [
+      "Assassin",
+      "Fighter"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -3121,9 +3549,13 @@
     "Name": "Khaleed",
     "Image": null,
     "release date": "7 August 2020",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Damage/Regen",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Rage",
     "damage type": "Physical",
@@ -3149,9 +3581,14 @@
     "Name": "Barats",
     "Image": null,
     "release date": "18 September 2020",
-    "role": "Tank/ Fighter",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
     "specialty": "Damage/Crowd Control",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -3179,9 +3616,13 @@
     "Name": "Brody",
     "Image": null,
     "release date": "16 October 2020",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Burst/Finisher",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -3209,9 +3650,13 @@
     "Name": "Yve",
     "Image": null,
     "release date": "12 February 2021",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3238,9 +3683,14 @@
     "Name": "Mathilda",
     "Image": null,
     "release date": "12 December 2020",
-    "role": "Support/ Assassin",
+    "role": [
+      "Support",
+      "Assassin"
+    ],
     "specialty": "Initiator/Guard",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3265,9 +3715,14 @@
     "Name": "Paquito",
     "Image": null,
     "release date": "15 January 2021",
-    "role": "Fighter/ Assassin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "Jungle",
+    "lane recc.": [
+      "Jungle"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3298,9 +3753,14 @@
     "Name": "Gloo",
     "Image": null,
     "release date": "16 April 2021",
-    "role": "Tank",
+    "role": [
+      "Tank"
+    ],
     "specialty": "Regen/Control",
-    "lane recc.": "EXP Lane/ Roaming",
+    "lane recc.": [
+      "EXP Lane",
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3327,9 +3787,13 @@
     "Name": "Beatrix",
     "Image": null,
     "release date": "19 March 2021",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3365,9 +3829,13 @@
     "Name": "Phoveus",
     "Image": null,
     "release date": "11 May 2021",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Regen/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Mixed",
@@ -3395,9 +3863,13 @@
     "Name": "Natan",
     "Image": null,
     "release date": "23 July 2021",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Burst/Magic Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3427,9 +3899,13 @@
     "Name": "Aulus",
     "Image": null,
     "release date": "31 August 2021",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Damage/Crowd Control",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -3453,9 +3929,13 @@
     "Name": "Aamon",
     "Image": null,
     "release date": "25 October 2021",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Magic Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3486,9 +3966,13 @@
     "Name": "Valentina",
     "Image": null,
     "release date": "25 November 2021",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Finisher",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3518,9 +4002,15 @@
     "Name": "Edith",
     "Image": null,
     "release date": "24 December 2021",
-    "role": "Tank/ Marksman",
+    "role": [
+      "Tank",
+      "Marksman"
+    ],
     "specialty": "Control/Burst",
-    "lane recc.": "EXP Lane/ Roaming",
+    "lane recc.": [
+      "EXP Lane",
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Mixed",
@@ -3552,9 +4042,13 @@
     "Name": "Floryn",
     "Image": null,
     "release date": "22 September 2021",
-    "role": "Support",
+    "role": [
+      "Support"
+    ],
     "specialty": "Poke/Guard",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3582,9 +4076,15 @@
     "Name": "Yin",
     "Image": null,
     "release date": "18 January 2022",
-    "role": "Fighter/ Assassin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
     "specialty": "Burst/Control",
-    "lane recc.": "Jungling/ EXP Lane",
+    "lane recc.": [
+      "Jungling",
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3617,9 +4117,13 @@
     "Name": "Melissa",
     "Image": null,
     "release date": "22 February 2022",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Mixed",
@@ -3650,9 +4154,13 @@
     "Name": "Xavier",
     "Image": null,
     "release date": "22 March 2022",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Damage/Guard",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3682,9 +4190,14 @@
     "Name": "Julian",
     "Image": null,
     "release date": "24 May 2022",
-    "role": "Assassin/ Fighter",
+    "role": [
+      "Assassin",
+      "Fighter"
+    ],
     "specialty": "Chase/Magic Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3714,9 +4227,14 @@
     "Name": "Fredrinn",
     "Image": null,
     "release date": "12 August 2022",
-    "role": "Fighter/ Tank",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
     "specialty": "Damage/Chase",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3744,9 +4262,13 @@
     "Name": "Joy",
     "Image": null,
     "release date": "18 November 2022",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Damage",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Magic",
@@ -3773,9 +4295,13 @@
     "Name": "Novaria",
     "Image": null,
     "release date": "16 May 2023",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Burst/Poke",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3801,9 +4327,14 @@
     "Name": "Arlott",
     "Image": null,
     "release date": "14 February 2023",
-    "role": "Fighter/ Assassin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
     "specialty": "Charge/Burst",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3831,9 +4362,13 @@
     "Name": "Ixia",
     "Image": null,
     "release date": "8 July 2023",
-    "role": "Marksman",
+    "role": [
+      "Marksman"
+    ],
     "specialty": "Finisher/Damage",
-    "lane recc.": "Gold Lane",
+    "lane recc.": [
+      "Gold Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Physical",
@@ -3863,9 +4398,13 @@
     "Name": "Nolan",
     "Image": null,
     "release date": "30 September 2023",
-    "role": "Assassin",
+    "role": [
+      "Assassin"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling",
+    "lane recc.": [
+      "Jungling"
+    ],
     "price": "32000 or 599",
     "skill resource": "Energy",
     "damage type": "Physical",
@@ -3896,9 +4435,13 @@
     "Name": "Cici",
     "Image": null,
     "release date": "27 December 2023",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Damage/Regen",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -3925,9 +4468,14 @@
     "Name": "Chip",
     "Image": null,
     "release date": "16 March 2024",
-    "role": "Support/ Tank",
+    "role": [
+      "Support",
+      "Tank"
+    ],
     "specialty": "Support/Crowd Control",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3954,9 +4502,13 @@
     "Name": "Zhuxin",
     "Image": null,
     "release date": "29 June 2024",
-    "role": "Mage",
+    "role": [
+      "Mage"
+    ],
     "specialty": "Damage/Crowd Control",
-    "lane recc.": "Mid Lane",
+    "lane recc.": [
+      "Mid Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Mana",
     "damage type": "Magic",
@@ -3985,9 +4537,15 @@
     "Name": "Suyou",
     "Image": null,
     "release date": "21 September 2024",
-    "role": "Assassin/ Fighter",
+    "role": [
+      "Assassin",
+      "Fighter"
+    ],
     "specialty": "Chase/Burst",
-    "lane recc.": "Jungling/ EXP Lane",
+    "lane recc.": [
+      "Jungling",
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",
@@ -4012,9 +4570,13 @@
     "Name": "Lukas",
     "Image": null,
     "release date": "21 December 2024",
-    "role": "Fighter",
+    "role": [
+      "Fighter"
+    ],
     "specialty": "Regen/Damage",
-    "lane recc.": "EXP Lane",
+    "lane recc.": [
+      "EXP Lane"
+    ],
     "price": "32000 or 599",
     "skill resource": "Rage",
     "damage type": "Physical",
@@ -4040,9 +4602,14 @@
     "Name": "Kalea",
     "Image": null,
     "release date": "19 March 2025",
-    "role": "Support/ Fighter",
+    "role": [
+      "Support",
+      "Fighter"
+    ],
     "specialty": "Control/Regen",
-    "lane recc.": "Roaming",
+    "lane recc.": [
+      "Roaming"
+    ],
     "price": "32000 or 599",
     "skill resource": "None",
     "damage type": "Physical",

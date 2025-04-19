@@ -44,12 +44,15 @@ async function scrapeHeroes() {
 
       const extraInfo = await getHeroInfo(url);
       const img = extraInfo.image || null;
-
-      heroes.push({
-        Name: heroName,
-        Image: img,
-        ...extraInfo,
-      });
+      (extraInfo.role = extraInfo.role.split("/").map((s) => s.trim())),
+        (extraInfo["lane recc."] = extraInfo["lane recc."]
+          .split("/")
+          .map((s) => s.trim())),
+        heroes.push({
+          Name: heroName,
+          Image: img,
+          ...extraInfo,
+        });
 
       console.log(`Processed ${heroName}`);
     }
